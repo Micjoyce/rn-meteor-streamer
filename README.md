@@ -4,4 +4,4 @@
 
 There has a example
 
-[https://github.com/Micjoyce/react-native-meteor-streamer-example]
+[https://github.com/Micjoyce/react-native-meteor-streamer-example](https://github.com/Micjoyce/react-native-meteor-streamer-example)
